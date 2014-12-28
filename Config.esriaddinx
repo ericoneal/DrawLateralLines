@@ -1,0 +1,20 @@
+﻿<ESRI.Configuration xmlns="http://schemas.esri.com/Desktop/AddIns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>DrawLateralLines</Name>
+  <AddInID>{f12aee11-ee38-437e-9160-03a4123733f5}</AddInID>
+  <Description>Draws lateral lines between point and line layers</Description>
+  <Version>1.0</Version>
+  <Image>Images\DrawLateralLines.png</Image>
+  <Author>Starlight GIS</Author>
+  <Company></Company>
+  <Date>1/30/2013</Date>
+  <Targets>
+    <Target name="Desktop" version="10.0" />
+  </Targets>
+  <AddIn language="CLR" library="DrawLateralLines.dll" namespace="DrawLateralLines">
+    <ArcMap>
+      <Commands>
+        <Button id="DrawLateralLines_btnDrawLateralLines" class="btnDrawLateralLines" message="Draws lateral lines between point and line layers" caption="Draw Lateral Lines" tip="Draw Lateral Lines" category="Add-In Controls" image="Images\btnDrawLateralLines.png" />
+      </Commands>
+    </ArcMap>
+  </AddIn>
+</ESRI.Configuration>

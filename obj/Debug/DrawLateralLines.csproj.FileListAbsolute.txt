@@ -1,0 +1,7 @@
+E:\Akron\DrawLateralLines\DrawLateralLines\obj\Debug\DrawLateralLines.frmDrawLateralLines.resources
+E:\Akron\DrawLateralLines\DrawLateralLines\obj\Debug\DrawLateralLines.csproj.GenerateResource.Cache
+E:\Akron\DrawLateralLines\DrawLateralLines\bin\Debug\DrawLateralLines.dll
+E:\Akron\DrawLateralLines\DrawLateralLines\bin\Debug\DrawLateralLines.pdb
+E:\Akron\DrawLateralLines\DrawLateralLines\obj\Debug\DrawLateralLines.dll
+E:\Akron\DrawLateralLines\DrawLateralLines\obj\Debug\DrawLateralLines.pdb
+E:\Akron\DrawLateralLines\DrawLateralLines\bin\Debug\DrawLateralLines.esriAddIn
